@@ -1,0 +1,13 @@
+phidata 
+python-dotenv
+packaging
+fastapi
+uvicorn
+openai
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+streamlit
+generative-ai-hub-sdk
+ai-core-sdk
